@@ -1,4 +1,3 @@
-20
 def input_number(prompt):
 
     while True:
